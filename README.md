@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
 <h1 align="center">Hi, this is Devashish</h1>
 <h3 align="center">I am a Computer Science student & open-source enthusiast.</h3>
